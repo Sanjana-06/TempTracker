@@ -25,13 +25,7 @@ This web application allows users to check the current weather and 5-day forecas
 
  - OpenWeatherMap API (for weather data)
 
-
-**Installation**
-**1.Clone the repository:**
-git clone https://github.com/Sanjana-06/weather-dashboard.git
-**2.Navigate into the project directory:**
-cd weather-dashboard
-**3.Usage**
+**Usage**
  - Open index.html in a web browser.
  - Enter a city name in the input field and click "Search" to get
    weather information.
