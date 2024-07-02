@@ -1,7 +1,6 @@
 
 
-
-##Weather Dashboard App
+## Weather Dashboard App
 
 
 **Description**
